@@ -16,7 +16,7 @@ void printArray(ArrayList<T> &list) {
 
 
 const char* ssid = "MichalP";
-const char* password = "palavaaa";
+const char* password = "heslojeheslo";
 
 //String serverName = "https://facerecog-gate-be.herokuapp.com";
 String serverName = "172.20.10.10";   // OR REPLACE WITH YOUR DOMAIN NAME
